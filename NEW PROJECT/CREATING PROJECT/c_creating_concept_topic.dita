@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_creating_concept_topic">
+    <title>CREATING YOUR FIRST <i>Concept Topic</i></title>
+    <shortdesc>This section shows how to create a new file <b>Concept Topic</b> in oXygen XML
+        Editor.</shortdesc>
+    <conbody>
+        <p>To create <b>Concept Topic</b> right-click on the <b>Project Folder</b> (created at the
+            beginning) for options and select <b>New</b> → <b>File</b> → <b>Concept</b>. Now add a
+                <b>Title</b> of the <b>Concept file</b> and <b>File name</b>. <ph>Click
+                    <b>Create</b> button.</ph></p>
+        <p>
+            <note id="note_bxt_tnh_npb">When name the <b>File name</b> add <b>'c_'</b> at the
+                beginning of <b>File name</b>. <b>'c_'</b> means <b>Concept</b>. It helps to know
+                which topic is for concpet <b>'c_'</b>.</note>
+            <fig id="fig_qqk_wgh_npb">
+                <title>Creating Concept Topic</title>
+                <image href="../../IMAGES/creating_concept.jpg" width="300" height="300"
+                    id="image_rqk_wgh_npb"/>
+            </fig>
+        </p>
+        <p>Below you see the <b>File editor</b> in oXygen XML Editor where you write your
+            content.</p>
+        <fig id="fig_p2n_wlh_npb">
+            <title>oXygen view</title>
+            <image href="../../IMAGES/oXygen%20view.jpg" width="800" height="400"
+                id="image_q2n_wlh_npb"/>
+        </fig>
+        <p><b>Adding the content</b></p>
+        <p><ph>In <b>Author mode</b> place the cursor between <b>p element</b> and press
+                    <b>Enter</b>. When you press <b>Enter</b>, Oxygen XML Editor shows you a list of
+                elements you can use in this location. Choose the element you want to use and press
+                    <b>Enter</b> to insert the element. </ph></p>
+        <note id="note_jrp_zxx_ppb">When you use a computer mouse, double click on the chosen
+            option. </note>
+        <fig id="fig_chv_v4h_npb">
+            <title>Adding a content in Author mode</title>
+            <image href="../../IMAGES/Adding%20content.jpg" width="550" height="250"
+                id="image_dhv_v4h_npb"/>
+        </fig>
+        <p>A list of frequent elements used in <b>Concept Topic</b>
+        </p>
+        <ul id="ul_skx_vph_npb">
+            <li>Sections <b>&lt;section></b> Include <b>Title</b></li>
+            <li>Paragraphs <b>&lt;p></b></li>
+            <li>Unordered list <b>&lt;ul></b></li>
+            <li>Ordered list <b>&lt;ol></b></li>
+            <li>Definition list <b>&lt;dl></b></li>
+            <li>Tables <b>&lt;table></b></li>
+            <li>Images <b>&lt;fig></b> or <b>&lt;image></b></li>
+            <li>Code blocks <b>&lt;codeblock></b></li>
+            <li>Code phrases <b>&lt;codeph></b></li>
+            <li>Phrases <b>&lt;ph></b></li>
+            <li>Keywords <b>&lt;keyword></b></li>
+            <li>Terms <b>&lt;term></b></li>
+        </ul>
+    </conbody>
+</concept>

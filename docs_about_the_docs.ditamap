@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Docs about the docs</title>
+    <topicmeta>
+        <author>Magdalena Osak</author>
+        <copyright>
+            <copyryear year="2021"/>
+            <copyrholder>Magdalena Osak</copyrholder>
+        </copyright>
+        <critdates>
+            <created date="2021-05-16"/>
+        </critdates>
+        <prodinfo>
+            <prodname>Docs about the docs Final Proe</prodname>
+        </prodinfo>
+    </topicmeta>
+    <topicref href="_INTRODUCTION/t_about%20the%20project.dita">
+        <topicref href="_INTRODUCTION/t_documentation_plan.dita"/>
+        <topicref href="_INTRODUCTION/t_product_description.dita"/>
+        <topicref href="_INTRODUCTION/t_tools_for_documentation_process.dita"/>
+    </topicref>
+    <topicref href="Chapter%201/t_oXygen_installation.dita"/>
+    <topicref href="NEW%20PROJECT/CREATING%20PROJECT/t_oxygen_setup.dita">
+        <topicref href="NEW%20PROJECT/CREATING%20PROJECT/t_my_first_project.dita"/>
+        <topicref href="NEW%20PROJECT/CREATING%20PROJECT/t_creating_task_topic.dita"/>
+        <topicref href="NEW%20PROJECT/CREATING%20PROJECT/c_creating_concept_topic.dita"/>
+        <topicref href="NEW%20PROJECT/CREATING%20PROJECT/r_creating_reference_topic.dita"/>
+    </topicref>
+    <topicref href="NEW%20PROJECT/HTML%20and%20PDF%20OUTPUT-%20DITA%20MAP/c_dita_map.dita"/>
+    <topicref
+        href="NEW%20PROJECT/HTML%20and%20PDF%20OUTPUT-%20DITA%20MAP/t_creating_pdf_and_html.dita"/>
+</map>

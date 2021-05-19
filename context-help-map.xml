@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="t_author" path="_INTRODUCTION/t_about%20the%20project.html"/>
+   <appContext helpID="t_documentation_plan"
+               path="_INTRODUCTION/t_documentation_plan.html"/>
+   <appContext helpID="t_product_description"
+               path="_INTRODUCTION/t_product_description.html"/>
+   <appContext helpID="t_tools_for_documentation_process"
+               path="_INTRODUCTION/t_tools_for_documentation_process.html"/>
+   <appContext helpID="t_tools_installation"
+               path="Chapter%201/t_oXygen_installation.html"/>
+   <appContext helpID="t_oxygen_setup"
+               path="NEW%20PROJECT/CREATING%20PROJECT/t_oxygen_setup.html"/>
+   <appContext helpID="t_my_first_project"
+               path="NEW%20PROJECT/CREATING%20PROJECT/t_my_first_project.html"/>
+   <appContext helpID="t_creating_task_topic"
+               path="NEW%20PROJECT/CREATING%20PROJECT/t_creating_task_topic.html"/>
+   <appContext helpID="c_creating_concept_topic"
+               path="NEW%20PROJECT/CREATING%20PROJECT/c_creating_concept_topic.html"/>
+   <appContext helpID="r_creating_reference_topic"
+               path="NEW%20PROJECT/CREATING%20PROJECT/r_creating_reference_topic.html"/>
+   <appContext helpID="c_dita_map"
+               path="NEW%20PROJECT/HTML%20and%20PDF%20OUTPUT-%20DITA%20MAP/c_dita_map.html"/>
+   <appContext helpID="t_creating_pdf_and_html"
+               path="NEW%20PROJECT/HTML%20and%20PDF%20OUTPUT-%20DITA%20MAP/t_creating_pdf_and_html.html"/>
+</map>
